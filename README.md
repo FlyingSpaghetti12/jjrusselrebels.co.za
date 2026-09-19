@@ -1,5 +1,22 @@
-# jjrusselrebels.co.za — This will be seen be the Home Of jjrusselrebels.co.za
+# jjrusselrebels.co.za
+
+This will be seen be the Home Of jjrusselrebels.co.za
 
 ---
 
-Built with Next.js. Admin panel, shop, and AI features coming soon.
+## Stack
+- Next.js 14
+- React 18
+- Deployed on NotaServer
+
+## Development
+```bash
+npm run dev    # Start dev server
+npm run build  # Production build
+npm start      # Start production server
+```
+
+## Features
+- [ ] Admin panel
+- [ ] Shop module
+- [ ] AI features
